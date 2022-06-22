@@ -1,0 +1,129 @@
+{
+  "posts": [
+    {
+      "email": "sunaina@gmail.com",
+      "password": "1234567890",
+      "id": 1
+    },
+    {
+      "email": "emiley@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "email": "peter@gmail.com",
+      "password": "987654321",
+      "id": 4
+    },
+    {
+      "email": "peter@gmail.com",
+      "password": "987654321",
+      "id": 5
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "email": "smile@abc.com",
+      "password": "smiles",
+      "id": 7
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 8
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 9
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 10
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 11
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 12
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 13
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 14
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 15
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 16
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 17
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 18
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 19
+    },
+    {
+      "email": "John@yahoo.com",
+      "password": "1234567890",
+      "id": 20
+    },
+    {
+      "email": "royal@abc.com",
+      "password": "1234th",
+      "id": 21
+    },
+    {
+      "email": "abcd@efg.com",
+      "password": "qwertyuiop",
+      "id": 22
+    },
+    {
+      "email": "sunil@yahoo.com",
+      "password": "12345678",
+      "id": 23
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
